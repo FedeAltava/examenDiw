@@ -121,5 +121,8 @@ parate el .conf se tiene que ver asi
 ![image](https://github.com/user-attachments/assets/f79ffe27-059d-4153-9276-bc191c2ef78b)
 
 
+Por ultimo se vera esto si todo ha ido bien.
+
+![image](https://github.com/user-attachments/assets/386f2e92-dbb0-4dec-b81b-9c6ed9f3b9b5)
 
 
