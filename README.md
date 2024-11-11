@@ -2,6 +2,8 @@
  # SSH + Command line (3 puntos) Documenta todos los pasos realizados en un archivo MarkDown. Accede a la máquina remota (el profesor facilitará la IP) mediante ssh:
 
 ## Abro la terminal y uso el comando shh mas el nombre de usuario al que quiero entrar y su ip.
+
+
 ssh usuario@192.168.0.185*
 
 
@@ -10,12 +12,26 @@ ssh usuario@192.168.0.185*
 
 
 Si encuentra un usuario que coincide me pide la contraseña de este , que nos la ha facilitado el profesor.
+
+
 contraseña DAMWDAWM
+
+
 uso el comando ls para ver los archivos creados y asi yo compruebo donde estoy se que se puede con pwd tambien.
+
+
 ls 
+
+
 Conel comando cd me muevo de directorio a escritorio.
+
+
 cd Escritorio
+
+
 con el comando touch creo el archivo txt.
+
+
 touch Fede.txt
 
 
@@ -24,7 +40,11 @@ touch Fede.txt
 
 
 conel comando whoami el sistema me dice que el nombre de mi usuario.
+
+
 whoami
+
+
 Uso el comando nano para poder escribir en el documento que habia creado.
 
 
@@ -33,10 +53,20 @@ Uso el comando nano para poder escribir en el documento que habia creado.
 
 
 nano Fede.txt
+
+
 escribo usuario que es el resultado que me ha dado al utilizar el comando whoami.
+
+
 Con los siguientes comandos guardo los cambios y salgo del documento.
+
+
 ctr 0 , enter , ctrl x
+
+
 nano Fede.txt
+
+
 escribo who que es el comando para saber quien esta conectado.
 
 
