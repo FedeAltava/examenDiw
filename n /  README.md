@@ -1,10 +1,12 @@
 # Indice
-1.Primer ejercicio.
+1.Segundo ejercicio.
 
 
-2.Segundo ejercicio.
+2.Tercero ejercicio.
 
+3. Se ha creado este propio documento.
 
+4. Bibiliografia.
 
 #Ejercicio 2
 
@@ -134,7 +136,7 @@ Similar al predeterminado, pero actualizado para nuestro nuevo directorio y nomb
 
 ![image](https://github.com/user-attachments/assets/386f2e92-dbb0-4dec-b81b-9c6ed9f3b9b5)
 
-### bibliografia.
+### Bibliografia.
 1. Documentacion de classroom.
 
  
