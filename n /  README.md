@@ -1,10 +1,14 @@
 # Indice
 1.Primer ejercicio.
+
+
 2.Segundo ejercicio.
 
 
 
 #Ejercicio 2
+
+
 
 ## Abro la terminal y uso el comando shh mas el nombre de usuario al que quiero entrar y su ip.
 
@@ -132,6 +136,10 @@ Similar al predeterminado, pero actualizado para nuestro nuevo directorio y nomb
 
 ### bibliografia.
 1. Documentacion de classroom.
-2. Documentacion oficial Mardown
-3. Documentacion oficial apache
+
+ 
+3. Documentacion oficial Mardown
+
+   
+5. Documentacion oficial apache
 
