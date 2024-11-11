@@ -1,5 +1,10 @@
+# Indice
+1.Primer ejercicio.
+2.Segundo ejercicio.
 
- # SSH + Command line (3 puntos) Documenta todos los pasos realizados en un archivo MarkDown. Accede a la máquina remota (el profesor facilitará la IP) mediante ssh:
+
+
+#Ejercicio 2
 
 ## Abro la terminal y uso el comando shh mas el nombre de usuario al que quiero entrar y su ip.
 
@@ -11,25 +16,25 @@ ssh usuario@192.168.0.185*
 
 
 
-Si encuentra un usuario que coincide me pide la contraseña de este , que nos la ha facilitado el profesor.
+1. Si encuentra un usuario que coincide me pide la contraseña de este , que nos la ha facilitado el profesor.
 
 
 contraseña DAMWDAWM
 
 
-uso el comando ls para ver los archivos creados y asi yo compruebo donde estoy se que se puede con pwd tambien.
+2. Uso el comando ls para ver los archivos creados y asi yo compruebo donde estoy se que se puede con pwd tambien.
 
 
 ls 
 
 
-Conel comando cd me muevo de directorio a escritorio.
+3. Con el comando cd me muevo de directorio a escritorio.
 
 
 cd Escritorio
 
 
-con el comando touch creo el archivo txt.
+ 4.Con el comando touch creo el archivo txt.
 
 
 touch Fede.txt
@@ -39,13 +44,13 @@ touch Fede.txt
 
 
 
-conel comando whoami el sistema me dice que el nombre de mi usuario.
+5.on el comando whoami el sistema me dice que el nombre de mi usuario.
 
 
 whoami
 
 
-Uso el comando nano para poder escribir en el documento que habia creado.
+6. Uso el comando nano para poder escribir en el documento que habia creado.
 
 
 ![imagen](https://github.com/user-attachments/assets/a9b265e2-caf4-43db-9ac6-937b793c7c9d)
@@ -55,7 +60,7 @@ Uso el comando nano para poder escribir en el documento que habia creado.
 nano Fede.txt
 
 
-escribo usuario que es el resultado que me ha dado al utilizar el comando whoami.
+7.Escribo usuario que es el resultado que me ha dado al utilizar el comando whoami.
 
 
 Con los siguientes comandos guardo los cambios y salgo del documento.
@@ -67,7 +72,7 @@ ctr 0 , enter , ctrl x
 nano Fede.txt
 
 
-escribo who que es el comando para saber quien esta conectado.
+Escribo who que es el comando para saber quien esta conectado.
 
 
 ![imagen](https://github.com/user-attachments/assets/4fe4796a-ed66-4d4a-a4bd-187b245898d1)
@@ -91,9 +96,9 @@ usuario  pts/12       2024-11-11 15:31 (192.168.0.148)
 
 ## Ejercicio 3
 
-Instalamos apache
+1.Instalamos apache
 
-se hace un sudo apt update 
+2.Se hace un sudo apt update 
 
  En /var/www/ creamos una carpeta llamada mi web
 
@@ -102,7 +107,7 @@ se hace un sudo apt update
  ![image](https://github.com/user-attachments/assets/918d450e-ada5-4db8-b900-c099bb055aa3)
 
  
-Es necesario crear un archivo de host virtual con las directivas correctas.
+3. Es necesario crear un archivo de host virtual con las directivas correctas.
 Similar al predeterminado, pero actualizado para nuestro nuevo directorio y nombre de dominio:
 
 ![image](https://github.com/user-attachments/assets/474da06f-0d8c-4b2f-89f3-40e9d6fe0561)
@@ -112,17 +117,21 @@ Similar al predeterminado, pero actualizado para nuestro nuevo directorio y nomb
 
 ![image](https://github.com/user-attachments/assets/df87321b-37b8-46ec-b9bf-0b392778c526)
 
- Modificamos el archivo /etc/hosts
+ 4.Modificamos el archivo /etc/hosts
 
 ![image](https://github.com/user-attachments/assets/655bb298-cc99-460b-8c29-5714e487a121)
 
-parate el .conf se tiene que ver asi 
+5.Parate el .conf se tiene que ver asi 
 
 ![image](https://github.com/user-attachments/assets/f79ffe27-059d-4153-9276-bc191c2ef78b)
 
 
-Por ultimo se vera esto si todo ha ido bien.
+6.Por ultimo se vera esto si todo ha ido bien.
 
 ![image](https://github.com/user-attachments/assets/386f2e92-dbb0-4dec-b81b-9c6ed9f3b9b5)
 
+### bibliografia.
+1. Documentacion de classroom.
+2. Documentacion oficial Mardown
+3. Documentacion oficial apache
 
