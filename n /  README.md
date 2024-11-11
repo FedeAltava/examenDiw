@@ -87,3 +87,39 @@ usuario  pts/8        2024-11-11 15:27 (192.168.0.194)
 usuario  pts/10       2024-11-11 15:29 (192.168.0.103)
 usuario  pts/11       2024-11-11 15:30 (192.168.0.129)
 usuario  pts/12       2024-11-11 15:31 (192.168.0.148)
+
+
+## Ejercicio 3
+
+Instalamos apache
+
+se hace un sudo apt update 
+
+ En /var/www/ creamos una carpeta llamada mi web
+
+ creamos un archivo html
+
+ ![image](https://github.com/user-attachments/assets/918d450e-ada5-4db8-b900-c099bb055aa3)
+
+ 
+Es necesario crear un archivo de host virtual con las directivas correctas.
+Similar al predeterminado, pero actualizado para nuestro nuevo directorio y nombre de dominio:
+
+![image](https://github.com/user-attachments/assets/474da06f-0d8c-4b2f-89f3-40e9d6fe0561)
+
+![image](https://github.com/user-attachments/assets/0c29859a-d662-4caf-b865-71d71dd303b7)
+
+
+![image](https://github.com/user-attachments/assets/df87321b-37b8-46ec-b9bf-0b392778c526)
+
+ Modificamos el archivo /etc/hosts
+
+![image](https://github.com/user-attachments/assets/655bb298-cc99-460b-8c29-5714e487a121)
+
+parate el .conf se tiene que ver asi 
+
+![image](https://github.com/user-attachments/assets/f79ffe27-059d-4153-9276-bc191c2ef78b)
+
+
+
+
