@@ -8,7 +8,17 @@
 
 4. Bibiliografia.
 
-#Ejercicio 2
+5. Conclusión.
+
+6. Motivación
+   
+7. Palabras clave.
+
+
+#Motivacion
+Conseguir pasar el examen para aprobar el curso y poder encontrar un trabajo de programador web.
+
+##Ejercicio 2
 
 
 
@@ -144,4 +154,15 @@ Similar al predeterminado, pero actualizado para nuestro nuevo directorio y nomb
 
    
 5. Documentacion oficial apache
+
+#### Conclusion
+Un examen a priori corto que se ha hecho largo por mi culpa al no tener claro claro como realizar los ejercicios.
+
+#### Palabras clave
+
+-Shh.
+-Apache.
+-LocalHost.
+-MarkDown
+
 
